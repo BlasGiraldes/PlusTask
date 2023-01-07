@@ -1,0 +1,16 @@
+{
+    "name": "blasgiraldes/plus-task_mvc",
+    "description": "Proyecto PlusTask MVC, PHP 8, SASS",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.7"
+    }
+}

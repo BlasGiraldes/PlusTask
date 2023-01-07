@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/81719352/211158327-22015714-684d-45bf-
 
    <hr>
 
-Sobre lo técnico, para desarrollar este proyecto se ha utilizado Ajax para permitir la comunicación asíncrona con el servidor y mejorar la experiencia del usuario al no tener que recargar la página completa cada vez que se realiza una acción. PHP se ha utilizado como lenguaje de programación del lado del servidor, encargándose de procesar las solicitudes del cliente y realizar las operaciones necesarias con la base de datos MySQL. JavaScript se ha utilizado para implementar la lógica del lado del cliente y mejorar la interfaz de usuario.
+Sobre lo técnico, para desarrollar este proyecto se ha utilizado Ajax para permitir la comunicación asíncrona con el servidor y mejorar la experiencia del usuario al no tener que recargar la página completa cada vez que se realiza una acción. PHP se ha utilizado como lenguaje de programación del lado del servidor, encargándose de procesar las solicitudes del usuario y realizar las operaciones necesarias con la base de datos MySQL. JavaScript se ha utilizado para implementar la lógica del lado del usuario y mejorar la interfaz de usuario.
 
 Además de las funcionalidades mencionadas, se han implementado medidas de seguridad adicionales para proteger la información del usuario y evitar ataques. Esto incluye la validación de datos en el lado del servidor, la utilización de sentencias preparadas en las consultas a la base de datos y la encriptación de la información sensibles, como las contraseñas.
 
